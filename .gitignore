@@ -1,0 +1,5 @@
+# Ignore specific files
+HW2/For Student/data/IMDB_train.csv
+HW1/For student/YoloV7/HW1_material.zip
+HW4/For Student/model/TA_model_1.pt
+HW4/For Student/model/TA_model_2.pt
